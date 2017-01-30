@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-const p = "death & taxes"
+const p = "death & taxes."
 
 func main() {
 	const q int = 42
